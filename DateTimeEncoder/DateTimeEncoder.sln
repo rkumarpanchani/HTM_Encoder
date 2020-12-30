@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeEncoderLibrary", "DateTimeEncoder\DateTimeEncoderLibrary.csproj", "{58D8CF91-2C07-49C3-AF14-9C36010CAA32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeEncoderUnitTest", "DateTimeEncoderUnitTest\DateTimeEncoderUnitTest.csproj", "{26531C2F-20C5-448B-90EC-9449BE270FEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8FD32DDE-FDD0-4F49-8BD5-BF9F241BED81}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nugetpackages", "nugetpackages", "{524467CA-8327-4189-A5EA-1F72AACC4608}"
+	ProjectSection(SolutionItems) = preProject
+		nugetpackages\NeoCortexApi.1.0.5-beta.nupkg = nugetpackages\NeoCortexApi.1.0.5-beta.nupkg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{666ACB22-6D1E-4A19-AC07-77CC368D3CBC}"
+	ProjectSection(SolutionItems) = preProject
+		..\Documentation\Implementation of DateTime encoder.docx = ..\Documentation\Implementation of DateTime encoder.docx
+		..\Documentation\Implementation of DateTime encoder.pdf = ..\Documentation\Implementation of DateTime encoder.pdf
+		..\Documentation\Implementation of DateTime encoder.pptx = ..\Documentation\Implementation of DateTime encoder.pptx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D8CF91-2C07-49C3-AF14-9C36010CAA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D8CF91-2C07-49C3-AF14-9C36010CAA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D8CF91-2C07-49C3-AF14-9C36010CAA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D8CF91-2C07-49C3-AF14-9C36010CAA32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26531C2F-20C5-448B-90EC-9449BE270FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26531C2F-20C5-448B-90EC-9449BE270FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26531C2F-20C5-448B-90EC-9449BE270FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26531C2F-20C5-448B-90EC-9449BE270FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D733A699-CA1D-4894-9877-CC427C9720C4}
+	EndGlobalSection
+EndGlobal

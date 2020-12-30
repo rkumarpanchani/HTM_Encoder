@@ -1,0 +1,129 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "9c04c5c20be44ef091dbcfa4ebc6bd8024688d77"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "DateTimeEncoderLibrary/1.0.0": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.6.3",
+          "NETStandard.Library": "2.0.3",
+          "NeoCortexApi": "1.0.5-beta"
+        },
+        "runtime": {
+          "DateTimeEncoderLibrary.dll": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.FxCopAnalyzers/2.6.3": {
+        "dependencies": {
+          "Microsoft.CodeQuality.Analyzers": "2.6.3",
+          "Microsoft.NetCore.Analyzers": "2.6.3",
+          "Microsoft.NetFramework.Analyzers": "2.6.3",
+          "Text.Analyzers": "2.6.3"
+        }
+      },
+      "Microsoft.CodeQuality.Analyzers/2.6.3": {},
+      "Microsoft.Extensions.Logging.Abstractions/2.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      },
+      "Microsoft.NetCore.Analyzers/2.6.3": {},
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.NetFramework.Analyzers/2.6.3": {},
+      "NeoCortexApi/1.0.5-beta": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NeoCortexApi.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Text.Analyzers/2.6.3": {}
+    }
+  },
+  "libraries": {
+    "DateTimeEncoderLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.FxCopAnalyzers/2.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e8tBG/lWlpA55jyyw/ceB4RJY/Fbtw/xY9GhYTRe01HsU4u8ECIGWhwLj/k89W2ZPrm/P4lUG+VcEwERSY/ugA==",
+      "path": "microsoft.codeanalysis.fxcopanalyzers/2.6.3",
+      "hashPath": "microsoft.codeanalysis.fxcopanalyzers.2.6.3.nupkg.sha512"
+    },
+    "Microsoft.CodeQuality.Analyzers/2.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ns86d09X8PekFxDI9TUQs1diW9EPFbnnZEAieMEe2en0a61cdNH6NI9BvxJtwX2I9+okBWzr7vInknMzy3IK/A==",
+      "path": "microsoft.codequality.analyzers/2.6.3",
+      "hashPath": "microsoft.codequality.analyzers.2.6.3.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1iYT6BAnJZGebfclQXiM/drK+JUztSikkpT3xcASBQW4og877bsXtjqrMM4EI71nf8UVtvHt6O8pMdYDEE8/Lw==",
+      "path": "microsoft.extensions.logging.abstractions/2.2.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.NetCore.Analyzers/2.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jHd3oP9DnksKS/szAW1uQV8WN05rju0AE2KiqCC5YHQkmxZueM6MDtvxofdXZPGIJ7DpHUE0Ghxrjw7R4dNtVQ==",
+      "path": "microsoft.netcore.analyzers/2.6.3",
+      "hashPath": "microsoft.netcore.analyzers.2.6.3.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NetFramework.Analyzers/2.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L6BC3smztIblEHIJsAm+gsEPpW0JQqWH87qNMM5L6I/g01fnG6eIzwjJo03GWzQdCfLuh9v0I63z9vHmAcXIUA==",
+      "path": "microsoft.netframework.analyzers/2.6.3",
+      "hashPath": "microsoft.netframework.analyzers.2.6.3.nupkg.sha512"
+    },
+    "NeoCortexApi/1.0.5-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gJTt1oWZ0Ig7ysQNOUrYu/t/Q73+I1lBWUcYHb25u3F4VlVqCLF+bO3zFd0ublCDeF18Q9D2R3Rqb8OnPE5EXw==",
+      "path": "neocortexapi/1.0.5-beta",
+      "hashPath": "neocortexapi.1.0.5-beta.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Text.Analyzers/2.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gp9JttEK9yunfBtW9/LPJuEL3JMQvVtAEGKg/n5cU7ihq5IB53vcKRVgRbG6tLOETn5uk/N8886kHRx1Rnp4lw==",
+      "path": "text.analyzers/2.6.3",
+      "hashPath": "text.analyzers.2.6.3.nupkg.sha512"
+    }
+  }
+}

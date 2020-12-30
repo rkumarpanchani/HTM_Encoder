@@ -1,0 +1,9 @@
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoder\bin\Debug\netstandard2.0\DateTimeEncoderLibrary.deps.json
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoder\bin\Debug\netstandard2.0\DateTimeEncoderLibrary.dll
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoder\obj\Debug\netstandard2.0\DateTimeEncoderLibrary.csprojAssemblyReference.cache
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoder\obj\Debug\netstandard2.0\DateTimeEncoderLibrary.csproj.CoreCompileInputs.cache
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoder\obj\Debug\netstandard2.0\DateTimeEncoderLibrary.AssemblyInfoInputs.cache
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoder\obj\Debug\netstandard2.0\DateTimeEncoderLibrary.AssemblyInfo.cs
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoder\bin\Debug\netstandard2.0\DateTimeEncoderLibrary.pdb
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoder\obj\Debug\netstandard2.0\DateTimeEncoderLibrary.dll
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoder\obj\Debug\netstandard2.0\DateTimeEncoderLibrary.pdb

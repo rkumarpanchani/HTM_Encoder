@@ -1,0 +1,17 @@
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\DateTimeEncoderLibrary.dll
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\obj\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.csprojAssemblyReference.cache
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\obj\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.csproj.CoreCompileInputs.cache
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\obj\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.AssemblyInfoInputs.cache
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\obj\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.AssemblyInfo.cs
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.deps.json
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.runtimeconfig.json
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.runtimeconfig.dev.json
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.dll
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.pdb
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\bin\Debug\netcoreapp2.1\DateTimeEncoderLibrary.pdb
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\obj\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.csproj.CopyComplete
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\obj\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.dll
+E:\Visual Studio Codes\Source\MyProject\DateTimeEncoder\DateTimeEncoderUnitTest\obj\Debug\netcoreapp2.1\DateTimeEncoderUnitTest.pdb
